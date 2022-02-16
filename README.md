@@ -7,7 +7,7 @@
 - Hard coded data Used , you can also connect to a DB if needed
 
 #  ABout 
-this a simple microservice program  that connects memebers of a Gym to trainers and workout plans, 
+this a simple microservice program  that runs 100% on one Eureka Server and  connects memebers of a Gym to trainers and workout plans, 
 No UI 
 
 # Eureka Running 
