@@ -4,6 +4,7 @@
 - Spring Boot
 - Spring Netflix Eureka Server
 - java
+- Hard coded data Used , you can also connect to a DB if needed
 
 #  ABout 
 this a simple microservice program  that connects memebers of a Gym to trainers and workout plans, 
